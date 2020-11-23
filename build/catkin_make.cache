@@ -1,0 +1,2 @@
+force_sensor:serial:testcan
+-DCATKIN_DEVEL_PREFIX=/home/leon/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/leon/catkin_ws/install -G Unix Makefiles

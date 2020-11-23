@@ -1,0 +1,8 @@
+prefix=/home/leon/catkin_ws/install
+
+Name: testcan
+Description: Description of testcan
+Version: 0.0.0
+Cflags: -I/home/leon/catkin_ws/install/include
+Libs: -L/home/leon/catkin_ws/install/lib -ltestcan
+Requires: message_runtime
